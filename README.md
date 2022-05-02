@@ -39,4 +39,4 @@
 
  ### ____ ::Page URL:: _____
  
- https://khanh-t-tran.github.io/homework-1/
+  [Deployed Link](https://khanh-t-tran.github.io/homework-1/)
